@@ -3,7 +3,8 @@
   "alloworigin": [
     "http://localhost:3000",
     "https://.*\\.adobeio-static\\.net",
-    "https://3374739-cfpreview.adobeio-static.net"
+    "https://3374739-cfpreview.adobeio-static.net",
+    "https://aemshowcase4.my.workfront.adobe.com"
   ],
   "allowedpaths": [".*"],
   "supportedheaders": [
