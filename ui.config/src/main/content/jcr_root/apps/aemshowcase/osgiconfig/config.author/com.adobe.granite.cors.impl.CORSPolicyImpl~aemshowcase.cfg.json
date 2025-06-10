@@ -26,7 +26,8 @@
       "OPTIONS"
   ],
   "alloworiginregexp": [
-    "http://localhost:*",
+    "http://localhost:.*",
+    "https://localhost:.*",
     "https://.*\\.adobeio-static\\.net"
   ]
 }
