@@ -1,10 +1,9 @@
 {
   "supportscredentials":true,
   "alloworigin": [
-    "http://localhost:*",
-    "https://.*\\.adobeio-static\\.net",
     "https://3661969-contentpreview.adobeio-static.net",
-    "https://aemshowcase4.my.workfront.adobe.com"
+    "https://aemshowcase4.my.workfront.adobe.com",
+    "https://experience.adobe.com"
   ],
   "allowedpaths": [".*"],
   "supportedheaders": [
@@ -26,5 +25,8 @@
       "PATCH",
       "OPTIONS"
   ],
-  "alloworiginregexp": []
+  "alloworiginregexp": [
+    "http://localhost:*",
+    "https://.*\\.adobeio-static\\.net",
+  ]
 }
