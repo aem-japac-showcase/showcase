@@ -26,9 +26,5 @@
       "PATCH",
       "OPTIONS"
   ],
-  "alloworiginregexp": [
-    "http://localhost:.*",
-    "https://localhost:.*",
-    "https://.*\\.adobeio-static\\.net"
-  ]
+  "alloworiginregexp": []
 }
