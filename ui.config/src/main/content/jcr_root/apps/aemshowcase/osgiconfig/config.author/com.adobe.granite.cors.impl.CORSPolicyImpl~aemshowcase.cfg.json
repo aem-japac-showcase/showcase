@@ -1,9 +1,9 @@
 {
   "supportscredentials":true,
   "alloworigin": [
+    "http://localhost:3000",
     "https://3661969-contentpreview.adobeio-static.net",
     "https://aemshowcase4.my.workfront.adobe.com",
-    "https://experience.adobe.com",
     "https://.*\\.adobeio-static\\.net"
   ],
   "allowedpaths": [".*"],
