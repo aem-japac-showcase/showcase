@@ -2,6 +2,7 @@
   "supportscredentials":true,
   "alloworigin": [
     "http://localhost:3000",
+    "https://localhost:9080",
     "https://3661969-contentpreview.adobeio-static.net",
     "https://aemshowcase4.my.workfront.adobe.com",
     "https://.*\\.adobeio-static\\.net"
